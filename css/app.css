@@ -124,3 +124,7 @@ h1 {
 .add-new-star{
  color: #f9fafb;
 }
+.container #watch{
+  margin-left: 37%;
+    font-size: 3em;
+}
